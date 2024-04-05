@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Koulie
+- 👋 Hi, I’m Koulie
 - 🌱 I’m currently learning about website and function hosting on the cloud.
 - 💞️ I’m looking to collaborate on ...
 - 😄 Pronouns: He/Him

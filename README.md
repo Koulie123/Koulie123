@@ -3,6 +3,7 @@
 - 😄 Pronouns: He/Him
 - My Main current project is building a website for people who are looking to get in to bikepacking in the GTA! It can be seen at https://slowcyclistadventureguide.ca/
 - Currently working through The Odin Project:
+- Portfolio Site: https://koulie123.github.io/portfolio-site/
 - Tic-Tac-Toe game: https://koulie123.github.io/TicTacToe/
 - Restaurant page: https://koulie123.github.io/restaurtant-page/
 <!---
